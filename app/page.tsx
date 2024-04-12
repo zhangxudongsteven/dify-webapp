@@ -4,8 +4,6 @@ import React from 'react'
 import type { IMainProps } from '@/app/components'
 import Main from '@/app/components'
 
-export const runtime = 'edge'
-
 const App: FC<IMainProps> = ({
   params,
 }: any) => {
