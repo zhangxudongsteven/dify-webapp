@@ -1,3 +1,4 @@
+import React from 'react'
 import { getLocaleOnServer } from '@/i18n/server'
 
 import './styles/globals.css'
